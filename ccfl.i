@@ -31,7 +31,7 @@
 *             name   type scale ival iflag limit
 20500030 "unnamed" powerr   1.0  0.0     1     0
 *                input         param         power
-20500031      cntrlvar             1           0.5
+20500031      cntrlvar             1           0.7
 *
 *             name type scale ival iflag limit
 20500040 "unnamed" mult   1.0  0.0     0     0
